@@ -1,3 +1,3 @@
 # hello-world
 Christien's First Repository on GitHub
-i love to geek out on GitHub
+i love GitHub and it loves me
